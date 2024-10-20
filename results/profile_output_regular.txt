@@ -1,0 +1,29 @@
+         35 function calls in 0.058 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.020    0.020    0.058    0.058 sim.py:6(simulate_physical_system)
+        3    0.027    0.009    0.027    0.009 {method 'rand' of 'numpy.random.mtrand.RandomState' objects}
+        1    0.011    0.011    0.011    0.011 linalg.py:329(solve)
+        1    0.000    0.000    0.000    0.000 numeric.py:136(ones)
+        1    0.000    0.000    0.000    0.000 linalg.py:159(_commonType)
+        2    0.000    0.000    0.000    0.000 linalg.py:135(_makearray)
+        1    0.000    0.000    0.000    0.000 {built-in method numpy.empty}
+        2    0.000    0.000    0.000    0.000 linalg.py:153(_realType)
+        1    0.000    0.000    0.000    0.000 {method 'astype' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.000    0.000 linalg.py:209(_assert_stacked_square)
+        1    0.000    0.000    0.000    0.000 linalg.py:203(_assert_stacked_2d)
+        1    0.000    0.000    0.000    0.000 linalg.py:130(get_linalg_error_extobj)
+        3    0.000    0.000    0.000    0.000 linalg.py:140(isComplexType)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 multiarray.py:1080(copyto)
+        1    0.000    0.000    0.000    0.000 multiarray.py:741(dot)
+        5    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 linalg.py:325(_solve_dispatcher)
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {method '__array_prepare__' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method numpy.asarray}
+
+

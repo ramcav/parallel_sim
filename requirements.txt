@@ -1,0 +1,10 @@
+exceptiongroup==1.2.2+computecanada
+iniconfig==2.0.0+computecanada
+line_profiler==4.1.2+computecanada
+memory-profiler==0.61.0
+numpy==1.25.2+computecanada
+packaging==24.1+computecanada
+pluggy==1.5.0+computecanada
+psutil==5.9.8
+pytest==8.3.3+computecanada
+tomli==2.0.2
